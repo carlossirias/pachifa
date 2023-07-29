@@ -8,7 +8,7 @@ Pachifa is a platform created with the aim of making the lives of UCN students e
 
 ## Demo
 
-[https://pachifa.000webhostapp.com/PACHIFA/] (https://pachifa.000webhostapp.com/PACHIFA/)
+[https://pachifa.000webhostapp.com/PACHIFA/](https://pachifa.000webhostapp.com/PACHIFA/)
 
 ## Features
 
